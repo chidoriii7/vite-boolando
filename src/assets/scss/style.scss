@@ -1,0 +1,7 @@
+@use './partials/reset' as *;
+@use './partials/variables' as *;
+@use './partials/typography' as *;
+
+body {
+    background-color: $body-bg-color;
+}
